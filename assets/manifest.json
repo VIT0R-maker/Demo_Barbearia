@@ -1,0 +1,197 @@
+[
+  {
+    "asset": "public/images/hero.webp",
+    "source": "assets/originals/Cadeira de barbeiro em barbearia premium.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      575,
+      78,
+      1487,
+      1000
+    ],
+    "size": [
+      912,
+      922
+    ],
+    "bytes": 84662,
+    "smallAsset": "public/images/hero-640.webp",
+    "smallSize": [
+      640,
+      647
+    ],
+    "smallBytes": 46348
+  },
+  {
+    "asset": "public/images/service-cut.webp",
+    "source": "assets/originals/Serviços premium em ambiente de barbearia.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      77,
+      170,
+      509,
+      382
+    ],
+    "size": [
+      432,
+      212
+    ],
+    "bytes": 16314
+  },
+  {
+    "asset": "public/images/service-beard.webp",
+    "source": "assets/originals/Serviços premium em ambiente de barbearia.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      533,
+      170,
+      958,
+      382
+    ],
+    "size": [
+      425,
+      212
+    ],
+    "bytes": 17358
+  },
+  {
+    "asset": "public/images/service-complete.webp",
+    "source": "assets/originals/Serviços premium em ambiente de barbearia.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      982,
+      170,
+      1415,
+      382
+    ],
+    "size": [
+      433,
+      212
+    ],
+    "bytes": 16460
+  },
+  {
+    "asset": "public/images/barber.webp",
+    "source": "assets/originals/Serviços premium em ambiente de barbearia.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      77,
+      640,
+      808,
+      946
+    ],
+    "size": [
+      731,
+      306
+    ],
+    "bytes": 39928,
+    "smallAsset": "public/images/barber-640.webp",
+    "smallSize": [
+      640,
+      268
+    ],
+    "smallBytes": 30156
+  },
+  {
+    "asset": "public/images/lounge.webp",
+    "source": "assets/originals/Galeria do lounge da barbearia.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      41,
+      185,
+      932,
+      758
+    ],
+    "size": [
+      891,
+      573
+    ],
+    "bytes": 83922,
+    "smallAsset": "public/images/lounge-640.webp",
+    "smallSize": [
+      640,
+      412
+    ],
+    "smallBytes": 48938
+  },
+  {
+    "asset": "public/images/mirror.webp",
+    "source": "assets/originals/Galeria do lounge da barbearia.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      958,
+      185,
+      1448,
+      450
+    ],
+    "size": [
+      490,
+      265
+    ],
+    "bytes": 20980
+  },
+  {
+    "asset": "public/images/coffee.webp",
+    "source": "assets/originals/Galeria do lounge da barbearia.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      958,
+      474,
+      1448,
+      758
+    ],
+    "size": [
+      490,
+      284
+    ],
+    "bytes": 20772
+  },
+  {
+    "asset": "public/images/facade.webp",
+    "source": "assets/originals/Fachada e contato da barbearia premium.png",
+    "sourceSize": [
+      1487,
+      1058
+    ],
+    "crop": [
+      580,
+      0,
+      1487,
+      568
+    ],
+    "size": [
+      907,
+      568
+    ],
+    "bytes": 92088,
+    "smallAsset": "public/images/facade-640.webp",
+    "smallSize": [
+      640,
+      401
+    ],
+    "smallBytes": 49644
+  }
+]
